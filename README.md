@@ -1,10 +1,3 @@
-![image](https://github.com/user-attachments/assets/2610308c-dc93-445d-ab05-4a82c69908e4)# 3rd-template
-whynotsw-camp 3rd-template 레포지토리입니다.
-
----------------------------------------
-
-## 훈련생들에게 보여주기 위한 템플릿
-
 ---------------------------------------
 
 # 프로젝트 계획서
