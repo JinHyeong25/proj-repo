@@ -42,7 +42,7 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           </div>
     </div>
------------------------
+-------------------------------------
 
 # 요구사항 정의서
 [요구사항정의서.pdf](https://github.com/JinHyeong25/proj-repo/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
