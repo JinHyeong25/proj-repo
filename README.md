@@ -18,7 +18,6 @@
 ## 3. 팀 구성
 <table style="width:100%; text-align:center; table-layout:fixed;">
   <colgroup>
-    <!-- 전체 6열이므로 20%씩 -->
     <col style="width:20%;">
     <col style="width:20%;">
     <col style="width:20%;">
@@ -35,25 +34,18 @@
     </tr>
   </thead>
   <tbody>
-<!--     <tr>
-      <td>img</td>
-      <td>img</td>
-      <td>img</td>
-      <td>img</td>
-      <td>img</td>
-    </tr> -->
     <tr>
-      <td>데이터 수집 및 분석, DB 모델링 및 기획</td>
-      <td>개발 기획 및 총괄 책임, 데이터분석</td>
-      <td>Front & Back 개발, DB 모델링 및 구축</td>
-      <td>Front & Back 개발, DB 모델링</td>
-      <td>AWS 인프라 구축, 데이터분석</td>
+      <td>데이터 수집 및 분석<br>DB 모델링 및 기획</td>
+      <td>개발 기획 및 총괄 책임<br>데이터분석</td>
+      <td>Front & Back 개발<br>DB 모델링 및 구축</td>
+      <td>Front & Back 개발<br>DB 모델링</td>
+      <td>AWS 인프라 구축<br>데이터분석</td>
     </tr>
     <tr>
       <td><a href="https://github.com/yeop6033" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
         </a>
-</td>
+      </td>
       <td><a href="https://github.com/Hansilverline" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
         </a></td>
