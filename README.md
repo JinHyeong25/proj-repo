@@ -42,26 +42,27 @@
       <td>AWS 인프라 구축<br>데이터분석</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/yeop6033" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+      <td><a href="mailto:">
+          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
         </a>
       </td>
-      <td><a href="https://github.com/Hansilverline" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+      <td><a href="mailto:">
+          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
         </a></td>
-      <td><a href="https://github.com/dohy-98" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+      <td><a href="mailto:">
+          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
         </a></td>
-      <td><a href="https://github.com/MINLUV" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+      <td><a href="mailto:">
+          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
         </a></td>
-      <td><a href="https://github.com/jang7987" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+      <td><a href="mailto:jcn05256@naver.com">
+          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
         </a></td>
     </tr>
   </tbody>
 </table>
 <br>
+
 
 
 ---------------------------------------
