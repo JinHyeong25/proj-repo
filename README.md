@@ -24,7 +24,6 @@
     <col style="width:20%;">
     <col style="width:20%;">
     <col style="width:20%;">
-    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
@@ -37,7 +36,6 @@
   </thead>
   <tbody>
 <!--     <tr>
-      <td>img</td>
       <td>img</td>
       <td>img</td>
       <td>img</td>
@@ -66,9 +64,6 @@
           <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
         </a></td>
       <td><a href="https://github.com/jang7987" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
-        </a></td>
-       <td><a href="https://github.com/nastory22" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
         </a></td>
     </tr>
