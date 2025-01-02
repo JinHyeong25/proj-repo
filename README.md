@@ -41,27 +41,10 @@
       <td>Front & Back 개발<br>DB 모델링</td>
       <td>AWS 인프라 구축<br>데이터분석</td>
     </tr>
-    <tr>
-      <td><a href="mailto:">
-          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-      <td><a href="mailto:">
-          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
-        </a></td>
-      <td><a href="mailto:">
-          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
-        </a></td>
-      <td><a href="mailto:">
-          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
-        </a></td>
-      <td><a href="mailto:jcn05256@naver.com">
-          <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
-        </a></td>
-    </tr>
   </tbody>
 </table>
 <br>
+
 
 
 
