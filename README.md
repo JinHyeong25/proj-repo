@@ -16,11 +16,66 @@
 - **최종 프로젝트 개발 및 테스트**: 2024년 11월 07일 - 12월 30일
 
 ## 3. 팀 구성
-- **곽현철** : 데이터 수집 및 분석, DB 모델링 및 기획
-- **김승훈** : 개발 기획 및 총괄 책임, 데이터분석
-- **서정임** : Front & Back 개발, DB 모델링 및 구축
-- **양현우** : Front & Back 개발, DB 모델링
-- **조진형** : AWS 인프라 구축, 데이터분석
+<table style="width:100%; text-align:center; table-layout:fixed;">
+  <colgroup>
+    <!-- 전체 6열이므로 20%씩 -->
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>곽현철</th>
+      <th>김승훈</th>
+      <th>서정임</th>
+      <th>양현우</th>
+      <th>조진형</th>
+    </tr>
+  </thead>
+  <tbody>
+<!--     <tr>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+    </tr> -->
+    <tr>
+      <td>데이터 수집 및 분석, DB 모델링 및 기획</td>
+      <td>개발 기획 및 총괄 책임, 데이터분석</td>
+      <td>Front & Back 개발, DB 모델링 및 구축</td>
+      <td>Front & Back 개발, DB 모델링</td>
+      <td>AWS 인프라 구축, 데이터분석</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yeop6033" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a>
+</td>
+      <td><a href="https://github.com/Hansilverline" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/dohy-98" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/MINLUV" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/jang7987" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+       <td><a href="https://github.com/nastory22" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
 
 ---------------------------------------
 # 기술스택
