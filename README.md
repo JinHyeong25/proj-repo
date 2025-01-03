@@ -73,8 +73,9 @@
 
 # 요구사항 정의서
 <details>
-  <summary>📂 클릭하여 열기</summary>
-  
+  <summary>📂 요구사항명세서</summary>
+  <iframe src="https://github.com/JinHyeong25/proj-repo/blob/main/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf" width="100%" height="600px"></iframe>
+
   여기에 표시하고 싶은 내용을 작성하세요.  
   여러 줄로 구성된 텍스트나 리스트를 작성할 수도 있습니다.
 
